@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SAR-Link Command",
+  "description": "A unified mission control interface for Language-Guided Multi-Robot Tunnel Search & Rescue, featuring LLM coordination, LOVON visualization, and Sim-to-Real management.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
